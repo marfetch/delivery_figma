@@ -40,3 +40,4 @@
 
 ## 💬 Пример создаваемого Issue
 
+Обнаружено обновление в Figma-макете. Дата обновления: 2025-05-20T13:53:48.000Z.Пользователь: Yaroslav, https://www.gravatar.com/avatar/b29b75354662fb6929774ff4fbbe2df6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png, 947565866700752763. Открыть макет:(https://www.figma.com/design/Cl1V4R7yjTmGkQFHIja31L/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8?node-id=0-1&m=dev&t=HlQfzCCmrHLgLCe2-1)
