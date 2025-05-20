@@ -22,6 +22,17 @@
 
 ---
 
+## Ссылки на прототипы
+
+Пользователь
+https://www.figma.com/proto/Cl1V4R7yjTmGkQFHIja31L/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8?t=WyJgBSt0ETs98Oma-1
+
+Курьер
+https://www.figma.com/proto/Cl1V4R7yjTmGkQFHIja31L/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8?node-id=13-2198&t=WyJgBSt0ETs98Oma-1
+
+Оператор
+https://www.figma.com/proto/Cl1V4R7yjTmGkQFHIja31L/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8?node-id=13-3198&t=WyJgBSt0ETs98Oma-1
+
 ## 🔧 Используемые технологии
 
 - [Figma](https://figma.com) — среда проектирования интерфейсов
